@@ -5,8 +5,8 @@ import hashlib
 import hmac
 import time
 
-API_KEY = "e7gzh0rRZXHEUhQJ0Ym8JDGWcYEr1wYkzkIVjfQv2oxlLYW3tXMnGa8p7hFNhQja"
-SECRET_KEY = "3mjA0aj6vQrPAEx6NHN9MmXPEizNq4IfWoDAZRJZ3wn6Z2zviW7DevfH8LRhs3e9"
+API_KEY = "BLAH"
+SECRET_KEY = "BLAH"
 
 BASE_URL = "https://mock-api.roostoo.com"
 
